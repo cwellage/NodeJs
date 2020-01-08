@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29009.5
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "NodejsWebApp1", "NodejsWebApp1\NodejsWebApp1.njsproj", "{827D554D-0D0C-42A3-AE08-466C2AA565AA}"
+EndProject
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "NodejsConsoleApp1", "NodejsConsoleApp1\NodejsConsoleApp1.njsproj", "{9D7D3837-6124-43CC-806A-2C9B2A312023}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{827D554D-0D0C-42A3-AE08-466C2AA565AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{827D554D-0D0C-42A3-AE08-466C2AA565AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{827D554D-0D0C-42A3-AE08-466C2AA565AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{827D554D-0D0C-42A3-AE08-466C2AA565AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D7D3837-6124-43CC-806A-2C9B2A312023}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D7D3837-6124-43CC-806A-2C9B2A312023}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D7D3837-6124-43CC-806A-2C9B2A312023}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D7D3837-6124-43CC-806A-2C9B2A312023}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {356008B5-3B75-4F19-917F-D31CE12AE78E}
+	EndGlobalSection
+EndGlobal
